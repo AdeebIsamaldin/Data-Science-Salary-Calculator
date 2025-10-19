@@ -1,8 +1,9 @@
 # Data-Science-Salary-Calculator
 Developed an interactive Report to analyze and visualize compensation trends across the data science field.
 
-Aim :::
+Aim : To transform raw data science salary data into an interactive, automated reporting dashboard using Excel's Power Pivot and Add-ins, enabling stakeholders to instantly analyze 6,480+ positions,
 
+--- 
 
 Summary
 This comprehensive analytical report presents findings from an in-depth analysis of 33,480+ full/part-time data science positions across global markets. The interactive dashboard serves as both a reporting tool and compensation calculator, providing actionable insights for stakeholders in the data science employment ecosystem.
@@ -14,20 +15,18 @@ Report Methodology & Data Sources
 Report Scope :
 Dataset: 33,480+ verified full-time positions
 
+Geographic Coverage: Global (United States, United Kingdom, UAE, and 60+ countries)
+
+Position Types: 10+ data science roles including Senior Data Scientist, ML Engineer, Data Analyst etc.
+
 Time Period: Current market analysis
 
-Geographic Coverage: Global (United States, United Kingdom, UAE, and 15+ countries)
-
-Position Types: 10+ data science roles including Senior Data Scientist, ML Engineer, Data Analyst etc..
 ---
 
-
----
-
-Key Quantitative Findings
+Key Quantitative Findings :
 
 
-Compensation Analysis
+Compensation Analysis ;
 Median Base Salary for Data Analysts (US): $90,000
 
 Salary Distribution Ranges: Comprehensive analysis across percentile bands (50th, 54th, 58th, 100th, 120th+)
@@ -43,9 +42,10 @@ Geographic Compensation Variance: US markets showing 15-20% premium over interna
 
 ---
 
----
 
-Detailed Analytical Sections
+
+Detailed Analytical Sections :
+
 1. Role-Specific Compensation Report
 The analysis reveals significant compensation stratification across data science specializations:
 
